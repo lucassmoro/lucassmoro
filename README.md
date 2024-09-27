@@ -17,7 +17,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassmoro&locale=en&hide_title=false&layout=compact&card_width=405&langs_count=5&theme=cobalt&hide_border=true&order=2" height="203" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassmoro&locale=en&hide_title=false&layout=compact&card_width=405&langs_count=5&theme=flag-india&hide_border=true&order=2" height="203" alt="languages graph" /> <br>
 </div>
 
 ###
