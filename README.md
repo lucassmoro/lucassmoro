@@ -12,17 +12,13 @@
 
 ###
 
-<img align="right" height="215" src="https://i.imgur.com/ZFW3zyW.gif"  />
+<img align="right" height="235" src="https://i.imgur.com/ZFW3zyW.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassmoro&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dark&hide_border=true&order=2" height="190" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassmoro&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dark&hide_border=true&order=2" height="203" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=lucassmoro&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D&order=3" height="161" alt="streak graph"  />
 </div>
-
-###
-
-<img align="left" height="200" src="https://i.imgur.com/ot1mIqy.gif"  />
 
 ###
